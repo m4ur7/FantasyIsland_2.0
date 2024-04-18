@@ -23,7 +23,7 @@ Fantasy Island 2.0 es un proyecto fascinante que te transporta a un mundo virtua
 
 A continuación, una muestra de como se ve el apartado de Projects:
 
-![3D Website](src/assets/images/screen.png)
-![Projects](src/assets/images/screen2.png)
+![3D Website](client/src/assets/images/screen.png)
+![Projects](client/src/assets/images/screen2.png)
 
 
