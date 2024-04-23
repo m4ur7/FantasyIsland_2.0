@@ -24,20 +24,20 @@ Fantasy Island 2.0 es un proyecto fascinante que te transporta a un mundo virtua
 A continuación, una muestra de como se ve el apartado de:
 
 Home
-![3D Website](src/assets/images/screen.png)
+![3D Website](client/src/assets/images/screen.png)
 
 Projects
-![3D Website](src/assets/images/screen2.png)
+![3D Website](client/src/assets/images/screen2.png)
 
 Projects
-![3D Website](src/assets/images/screen3.png)
+![3D Website](client/src/assets/images/screen3.png)
 
 About
-![3D Website](src/assets/images/screen4.png)
+![3D Website](client/src/assets/images/screen4.png)
 
 ThunderClient
-![3D Website](src/assets/images/screen5.png)
+![3D Website](client/src/assets/images/screen5.png)
 
 Contact
-![3D Website](src/assets/images/screen6.png)
+![3D Website](client/src/assets/images/screen6.png)
 
