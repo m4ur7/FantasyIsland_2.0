@@ -25,6 +25,9 @@ A continuación, una muestra de como se ve el apartado de Projects:
 
 ![3D Website](src/assets/images/screen.png)
 ![Projects](src/assets/images/screen2.png)
-
+![Projects](src/assets/images/screen3.png)
+![About](src/assets/images/screen4.png)
+![ThunderClient](src/assets/images/screen5.png)
+![Contact](src/assets/images/screen6.png)
 
 
